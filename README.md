@@ -1,1 +1,1 @@
-# coordination_nx_analysis
+#  Analyzing coordination networks in astroturfing campaign 
